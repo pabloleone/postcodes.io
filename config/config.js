@@ -24,8 +24,8 @@ var config = {
 		root: rootPath,
 		googleAnalyticsKey: "",
 		postgres: {
-			user: "postcodesio",
-			password: "password",
+			user: "pabloleone",
+			password: "",
 			database: "postcodesiodb",	// Database name
 			host: "localhost",
 			port: 5432
